@@ -1,3 +1,5 @@
 Example.txt
 
 selam naber
+
+ok
